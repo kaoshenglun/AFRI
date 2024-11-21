@@ -13,15 +13,15 @@ Mel-spectrogram of DC04.wav. The red lines indicate the boundaries of the desire
 ### How to run code
 
 **Path setting**
-./0.AutomaticFrequencyRangeIdentification_linux.py
-./CHE
-./CHE23
-./CT
-./CW
-./DC
-./MGE
-./MS
-./QU
+./0.AutomaticFrequencyRangeIdentification_linux.py  
+./CHE  
+./CHE23  
+./CT  
+./CW  
+./DC  
+./MGE  
+./MS  
+./QU  
 
 **Code execution**
 
@@ -40,7 +40,6 @@ python 0.AutomaticFrequencyRangeIdentification_linux.py
 Below are examples of the code execution.
 
 ![](./index_files/runcode1.jpg)
-
 ![](./index_files/runcode2.jpg)
 
 ### Results of AFRI on DCASE Audio Data
@@ -54,7 +53,7 @@ Results of AFRI on the 2023 validation set.
 V4nameandautominbinandautomaxbin= ['R4_cleaned recording_16-10-17.wav', 3, 23, '|||', 'R4_cleaned recording_TEL_24-10-17.wav', 13, 38, '|||', 'R4_cleaned recording_17-10-17.wav', 6, 42, '|||', 'file_423_487.wav', 31, 56, '|||', 'R4_cleaned recording_TEL_19-10-17.wav', 6, 75, '|||', 'file_97_113.wav', 3, 23, '|||', 'R4_cleaned recording_TEL_20-10-17.wav', 12, 42, '|||', 'R4_cleaned recording_TEL_23-10-17.wav', 13, 43, '|||', 'R4_cleaned recording_TEL_25-10-17.wav', 2, 23, '|||', 'R4_cleaned recording_13-10-17.wav', 3, 23, '|||', 'ME1.wav', 17, 33, '|||', 'ME2.wav', 17, 73, '|||', 'BUK5_20180921_015906a.wav', 100, 121, '|||', 'BUK4_20161011_000804.wav', 107, 122, '|||', 'BUK1_20181013_023504.wav', 107, 123, '|||', 'BUK1_20181011_001004.wav', 100, 115, '|||', 'BUK5_20161101_002104a.wav', 88, 125, '|||', 'BUK4_20171022_004304a.wav', 100, 119, '|||']
 ```
 
-['Audio file name', Min band, Max band]
+['Audio file name', Min band, Max band]  
 The total number of mel bands is 128, corresponding to a highest frequency of 11025 Hz.
 
 ### DATA AVAILABILITY
@@ -63,7 +62,7 @@ Audio data are available on the DCASE website: [2024 DCASE website](https://dcas
 ---
 
 ### ACKNOWLEDGMENTS
-In tackling classification problems, employing feature engineering to enhance accuracy is crucial. Sheng-Lun Kao expresses gratitude to Professor Tai-Shih Chi of National Chiao Tung University for imparting this concept during lectures.
+In tackling classification problems, employing feature engineering to enhance accuracy is crucial. Sheng-Lun Kao expresses gratitude to Professor Tai-Shih Chi of National Chiao Tung University for imparting this concept during lectures.  
 Sheng-Lun Kao conceived, designed, and implemented the study, as well as authored the man-uscript. Yi-Wen Liu provided invaluable feedback and guidance throughout the project and contributed to the revision of the manuscript.
 
 ### Cite our work from the Journal of the Acoustical Society of America
