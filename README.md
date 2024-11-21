@@ -3,7 +3,6 @@ Authors: Sheng-Lun Kao, Yi-Wen Liu
 ---
 
 We devised an algorithm for automatic frequency range identification (AFRI), which determines the frequency range of first 5 positive (POS) events within the mel-spectrogram.
-
 ![](./index_files/DC04.wav.jpg)
 
 Mel-spectrogram of DC04.wav. The red lines indicate the boundaries of the desired frequency range as determined by AFRI.
@@ -12,7 +11,7 @@ Mel-spectrogram of DC04.wav. The red lines indicate the boundaries of the desire
 
 ### How to run code
 
-**Path setting**
+**Path setting**  
 ./0.AutomaticFrequencyRangeIdentification_linux.py  
 ./CHE  
 ./CHE23  
@@ -38,7 +37,6 @@ python 0.AutomaticFrequencyRangeIdentification_linux.py
 ```
 
 Below are examples of the code execution.
-
 ![](./index_files/runcode1.jpg)
 ![](./index_files/runcode2.jpg)
 
