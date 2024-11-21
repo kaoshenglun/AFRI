@@ -28,7 +28,7 @@ Mel-spectrogram of DC04.wav. The red lines indicate the boundaries of the desire
 1. Change directory to the path of code
 
 ```bash
-cd path/to/your/code
+cd path/to/AFRIcode
 ```
 
 2. Run the code
@@ -62,7 +62,7 @@ Audio data are available on the DCASE website: [2024 DCASE website](https://dcas
 
 ### ACKNOWLEDGMENTS
 In tackling classification problems, employing feature engineering to enhance accuracy is crucial. Sheng-Lun Kao expresses gratitude to Professor Tai-Shih Chi of National Chiao Tung University for imparting this concept during lectures.  
-Sheng-Lun Kao conceived, designed, and implemented the study, as well as authored the man-uscript. Yi-Wen Liu provided invaluable feedback and guidance throughout the project and contributed to the revision of the manuscript.
+Sheng-Lun Kao conceived, designed, and implemented the study, as well as authored the manuscript. Yi-Wen Liu provided invaluable feedback and guidance throughout the project and contributed to the revision of the manuscript.
 
 ### Cite our work from the Journal of the Acoustical Society of America
 ```
