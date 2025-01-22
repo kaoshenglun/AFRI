@@ -1,5 +1,5 @@
 # Automatic Frequency Range Identification (AFRI) in Mel-Spectrograms
-Authors: Sheng-Lun Kao, Yi-Wen Liu
+Authors: Sheng-Lun Kao
 ---
 
 We devised an algorithm for automatic frequency range identification (AFRI), which determines the frequency range of first 5 positive (POS) events within the mel-spectrogram.  
