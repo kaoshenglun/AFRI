@@ -2,9 +2,9 @@
 Author: Sheng-Lun Kao
 ---
 
-I devised an algorithm for automatic frequency range identification (AFRI), which determines the frequency range of first 5 positive (POS) events within the mel-spectrogram.
-For a detailed description of the AFRI algorithm, please refer to AFRI.pdf or our publication in The Journal of the Acoustical Society of America.
-Through the use of AFRI, our system **ranked 3rd**  in the 2024 DCASE Challenge Task 5.
+I devised an algorithm for automatic frequency range identification (AFRI), which determines the frequency range of first 5 positive (POS) events within the mel-spectrogram.  
+For a detailed description of the AFRI algorithm, please refer to AFRI.pdf or our publication in The Journal of the Acoustical Society of America.  
+Through the use of AFRI, our system **ranked 3rd**  in the 2024 DCASE Challenge Task 5.  
 ![](./index_files/DC04.wav.jpg)
 
 Mel-spectrogram of DC04.wav. The red lines indicate the boundaries of the desired frequency range as determined by AFRI.
