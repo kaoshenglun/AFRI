@@ -67,7 +67,7 @@ Sheng-Lun Kao conceived, designed, and implemented the study, as well as authore
 
 ### Cite our work from the Journal of the Acoustical Society of America
 ```
-working
+The paper was accepted on June 19, 2025; however, the official publication is still pending.
 ```
 
 ### Or to cite our work from the DCASE challenge report
