@@ -1,5 +1,5 @@
 # Automatic Frequency Range Identification (AFRI) in Mel-Spectrograms
-Author: Sheng-Lun Kao
+Authors: Sheng-Lun Kao, Yi-Wen Liu
 ---
 
 I devised an algorithm for automatic frequency range identification (AFRI), which determines the frequency range of first 5 positive (POS) events within the mel-spectrogram.  
@@ -66,18 +66,19 @@ In tackling classification problems, employing feature engineering to enhance ac
 Sheng-Lun Kao conceived, designed, and implemented the study, as well as authored the manuscript. Yi-Wen Liu provided invaluable feedback and guidance throughout the project and contributed to the revision of the manuscript.
 
 ### Cite our work from the Journal of the Acoustical Society of America
+https://doi.org/10.1121/10.0037080
 ```
-The paper was accepted on June 19, 2025; however, the official publication is still pending.
-```
-
-### Or to cite our work from the DCASE challenge report
-```
-@techreport{kao2024,
-    Author = "Kao, Sheng-Lun and Liu, Yi-Wen",
-    title = "Cosine similarity based Few-shot Bioacoustic Event Detection with Automatic Frequency Range Identification in Mel-Spectrograms Technical Report",
-    institution = "DCASE2024 Challenge",
-    year = "2024",
-    month = "June",
-    abstract = "In response to the Few-shot Bioacoustic Event Detection chal- lenge, we have developed a detection system comprising three key components. First, an algorithm has been devised for auto- matically identifying frequency ranges of the positive (POS) sig- nal within the mel-spectrogram. Secondly, the cosine similarity between POS and negative (NEG) events is computed across the entire audio file. Thirdly, predictions of POS events are made based on the results of cosine similarity. Remarkably, this ap- proach does not rely on any training data from the development dataset, external data, or pretrained models. The proposed system achieved an F1-score of 44.187\% on the 2023 validation set."
+@article{Kao2025,
+  author    = {Sheng-Lun Kao and Yi-Wen Liu},
+  title     = {Cosine similarity-based few-shot bioacoustic event detection with automatic frequency range identification in Mel-spectrograms},
+  journal   = {The Journal of the Acoustical Society of America},
+  volume    = {158},
+  number    = {1},
+  pages     = {123--134},
+  year      = {2025},
+  month     = {July},
+  doi       = {10.1121/10.0037080},
+  url       = {https://doi.org/10.1121/10.0037080}
 }
 ```
+
