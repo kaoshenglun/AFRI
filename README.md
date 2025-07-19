@@ -12,6 +12,8 @@ Mel-spectrogram of DC04.wav. The red lines indicate the boundaries of the desire
 ---
 
 ### How to run code
+**Installed packages**  
+For installed packages, see piplist.txt
 
 **Path setting**  
 ./0.AutomaticFrequencyRangeIdentification_linux.py  
@@ -65,20 +67,20 @@ Audio data are available on the DCASE website: [2024 DCASE website](https://dcas
 In tackling classification problems, employing feature engineering to enhance accuracy is crucial. Sheng-Lun Kao expresses gratitude to Professor Tai-Shih Chi of National Chiao Tung University for imparting this concept during lectures.  
 Sheng-Lun Kao conceived, designed, and implemented the study, as well as authored the manuscript. Yi-Wen Liu provided invaluable feedback and guidance throughout the project and contributed to the revision of the manuscript.
 
+
 ### Cite our work from the Journal of the Acoustical Society of America
+Use of AFRI is permitted for non-commercial purposes only, including educational and research use.
+Feel free to use AFRI for your bioacoustic research. If you find it useful, please cite it as:
 https://doi.org/10.1121/10.0037080
 ```
-@article{Kao2025,
-  author    = {Sheng-Lun Kao and Yi-Wen Liu},
-  title     = {Cosine similarity-based few-shot bioacoustic event detection with automatic frequency range identification in Mel-spectrograms},
-  journal   = {The Journal of the Acoustical Society of America},
-  volume    = {158},
-  number    = {1},
-  pages     = {123--134},
-  year      = {2025},
-  month     = {July},
-  doi       = {10.1121/10.0037080},
-  url       = {https://doi.org/10.1121/10.0037080}
+@article{kao2025cosine,
+  title={Cosine similarity-based few-shot bioacoustic event detection with automatic frequency range identification in Mel-spectrograms},
+  author={Kao, Sheng-Lun and Liu, Yi-Wen},
+  journal={The Journal of the Acoustical Society of America},
+  volume={158},
+  number={1},
+  pages={123--134},
+  year={2025},
+  publisher={AIP Publishing}
 }
 ```
-
