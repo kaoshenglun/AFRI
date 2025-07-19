@@ -68,7 +68,7 @@ In tackling classification problems, employing feature engineering to enhance ac
 Sheng-Lun Kao conceived, designed, and implemented the study, as well as authored the manuscript. Yi-Wen Liu provided invaluable feedback and guidance throughout the project and contributed to the revision of the manuscript.
 
 
-### Cite our work from the Journal of the Acoustical Society of America
+### Use and cite our work
 Use of AFRI is permitted for non-commercial purposes only, including educational and research use.  
 Feel free to use AFRI for your bioacoustic research. If you find it useful, please cite it as:  
 https://doi.org/10.1121/10.0037080  
