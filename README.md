@@ -69,9 +69,9 @@ Sheng-Lun Kao conceived, designed, and implemented the study, as well as authore
 
 
 ### Cite our work from the Journal of the Acoustical Society of America
-Use of AFRI is permitted for non-commercial purposes only, including educational and research use.
-Feel free to use AFRI for your bioacoustic research. If you find it useful, please cite it as:
-https://doi.org/10.1121/10.0037080
+Use of AFRI is permitted for non-commercial purposes only, including educational and research use.  
+Feel free to use AFRI for your bioacoustic research. If you find it useful, please cite it as:  
+https://doi.org/10.1121/10.0037080  
 ```
 @article{kao2025cosine,
   title={Cosine similarity-based few-shot bioacoustic event detection with automatic frequency range identification in Mel-spectrograms},
